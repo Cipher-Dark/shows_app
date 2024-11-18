@@ -1,0 +1,16 @@
+flutter_native_splash :
+  android : true
+  ios: true
+  web: false
+
+  # color: "#bbdbed"
+  # for android 11 and below
+  background_image: "assets/moviez.png"
+  image: "assets/logo.png"
+  branding: "assets/brand.png"
+
+  # for 12 or more
+  android_12:
+    background_image: "assets/moviez.png"
+    image: "assets/logo.png"
+    branding: "assets/brand.png"
