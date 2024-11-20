@@ -1,6 +1,3 @@
-import 'dart:convert';
-import 'dart:ffi';
-
 class Show {
   final String name;
   final double rating;
